@@ -22,4 +22,4 @@ with open(salida_datos, "w") as archivo:
         # Escribimos en el archivo .csv de los datos que se obtuvieron del archivo .txt
         archivo.write(linea + "\n")
 #Impresion de pantalla para confirmar que se creo el archivo.   
-print("Archivo generado exitosamente")
+print("Archivo creado .csv exitosamente")
